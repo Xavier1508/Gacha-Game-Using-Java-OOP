@@ -1,0 +1,36 @@
+property#Re-Estize Royal Capital#The once-proud capital, now a shadow of its former self#Royal Palace of Re-Estize#A crumbling symbol of the kingdom's fading power
+property#Ro Lente Castle#A stronghold from the era of the Re-Estize monarchy, now in decay#Throne of the Fallen King#An abandoned throne room, a reminder of lost grandeur
+property#Carne Village#A resilient village known for its defenders during the goblin invasion#Goblin War Camp#A fortified camp where goblins are trained for battle
+property#East Fortress#A key military outpost guarding the eastern borders#Blade Wall#An ancient defensive structure, shaped by years of conflict
+property#Katze Plains#A vast battlefield, historically significant for many clashes#Field of Heroes#Sacred ground where legendary knights made their last stand
+property#Kalunsha#A prosperous city, renowned for its craftsmanship and commerce#Craftsmen’s Guild#A prestigious guild known for its high-quality goods
+property#Arwintar#The capital of the Baharuth Empire, a city of magic and grandeur#Imperial Palace#The Emperor’s seat of power and symbol of the Empire’s might
+property#Glory Fortress#A military stronghold on the Empire's northern border#Legion Keep#A fortified base where elite soldiers and battle mages are trained
+property#Imperial Magic Academy#The Empire’s foremost institution for magical education#Arcane Tower#A citadel for magical research and experiments
+property#Imperial Arena#A coliseum for gladiatorial combat and entertainment#Champion’s Pit#The arena’s battleground where only the strongest survive
+property#Warrior Training Grounds#A facility where elite soldiers are forged#Knight Commander’s Barracks#A command center for the Empire’s highest-ranking officers
+property#Northern Trade Hub#A bustling marketplace where goods from across the world are exchanged#Merchant’s Guild#An influential group controlling the Empire’s trade
+property#Cathedral of Light#The central holy site of the Six Great Gods in the Theocracy#Holy Mausoleum#A sacred burial site for legendary heroes
+property#Divine Relic Vault#A hidden vault containing powerful sacred artifacts#Grand Basilica#The heart of the Theocracy's religious authority
+property#Chamber of Saints#Where the highest clergy deliberate on faith and the gods' will#Sacred Academy#An institution for training priests, paladins, and warriors
+property#Hall of Trials#A chamber for those seeking divine favor and strength#Theocracy Border Fortress#A stronghold guarding against invaders
+property#Wall of Judgment#An enchanted barrier protecting the Theocracy from evil forces#Saint Clement’s Square#A plaza honoring the saints of the Six Great Gods
+property#Eternal Flame Altar#A holy flame representing divine vigilance#Grand Basilica#The Theocracy’s center of faith and power
+property#Great Tomb of Nazarick#An ancient underground structure housing forbidden knowledge#Throne of Kings#Ainz Ooal Gown’s seat of power in Nazarick
+property#E-Rantel#A strategic city now under the Sorcerer Kingdom’s rule#Adventurer’s Guild#A guild hall that once thrived, now overshadowed by Nazarick
+property#Necropolis#A vast city ruled by the undead, where death reigns supreme#Black Pyramid#An ominous structure filled with necromantic power
+property#Demiurge's Happy Farm#A pristine farm where magical crops and livestock are cultivated#Demiurge's Barn#A barn for enchanted animals and magical beasts
+property#Lake of Shadows#A mist-covered lake where eerie creatures lurk#Phantom Dock#A ghostly pier where spectral ships manifest
+property#Dark Spire#A cursed tower filled with dark energy#Abyssal Throne#A chamber where Ainz conducts his secretive experiments
+property#Elder Tree Sanctuary#A sacred site home to nature spirits#Lizardman Villages#Villages of warrior tribes from the wetlands
+property#Totem of the Ancestors#A monument honoring fallen lizardmen#Beastman Camp#A hidden refuge for savage warriors
+property#Blood Fang Altar#Where beastmen perform strength-enhancing rituals#Dark Elf Village#A secluded settlement of dark elves
+property#Moonlight Grove#A mystical glade for ancient elven rites#Troll Stronghold#A network of caves ruled by trolls
+property#Bonecrusher Pit#An arena where trolls battle for dominance#Ancient Ruins of Tob#Ruins of a lost civilization
+property#Crystal Spire#A tower filled with arcane secrets#Deep Abyss Caverns#A labyrinth of unknown horrors
+property#Dwarven Capital#An underground city known for its craftsmanship#Grand Forge of Runecraft#A legendary smithy for enchanted weapons
+property#Molten Mines#A network of mineral-rich tunnels#Obsidian Furnace#Where rare metals are refined by dwarven blacksmiths
+property#Golem Factory#A facility for producing magical constructs#Titan Assembly Hall#A workshop for colossal war golems
+property#Snowpeak Fortress#A bastion defending against frost dragons#Dragon’s Bane Watchtower#A lookout for aerial threats
+property#Runesmith Academy#A school preserving lost rune magic#Hall of Ancient Runes#A library of forgotten inscriptions
+property#Deep Abyss Caverns#A dangerous labyrinth of unknown horrors#Eclipse Core#A crystal radiating powerful arcane energy

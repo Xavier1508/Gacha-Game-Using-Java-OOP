@@ -1,0 +1,24 @@
+MT001#Common#Bone Fragment#Ainz Ooal Gown
+MT002#Rare#Arcane Bone Dust#Ainz Ooal Gown
+MT003#Epic#Momonga's Red Orb#Ainz Ooal Gown
+MT004#Legendary#Staff of Ainz Ooal Gown#Ainz Ooal Gown
+MT005#Common#Dark Essence#Albedo
+MT006#Rare#Death Knight Armor Scrap#Albedo
+MT007#Epic#Ginnungagap#Albedo
+MT008#Legendary#Hermes Trismegistus#Albedo
+MT009#Common#Ghoul Fang#Shalltear Bloodfallen
+MT010#Rare#Vampire Bloodstone#Shalltear Bloodfallen
+MT011#Epic#Peroroncino's Encyclopedia#Shalltear Bloodfallen
+MT012#Legendary#Spuit Lance#Shalltear Bloodfallen
+MT013#Common#Shadow Crystal#Demiurge
+MT014#Rare#Demonic Rune#Demiurge
+MT015#Epic#Hygieia's Chalice#Demiurge
+MT016#Legendary#Armageddon Evil#Demiurge
+MT017#Common#Bug Exoskeleton#Cocytus
+MT018#Rare#Wraith Core#Cocytus
+MT019#Epic#Decapitation Fang#Cocytus
+MT020#Legendary#God Slaying Emperor Blade#Cocytus
+MT021#Common#Blank Mask Shard#Pandora's Actor
+MT022#Rare#Mimicry Essence#Pandora's Actor
+MT023#Epic#The Actor's Script#Pandora's Actor
+MT024#Legendary#Doppelganger's Guise#Pandora's Actor
